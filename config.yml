@@ -1,0 +1,11 @@
+mkdir -p docs
+touch. **Re-run the workflow:**
+After pushing the changes, docs/..
+
+2. **Check Jekyll Configuration:**
+Make re-run the GitHub Actions workflow to see if thekeep
+git add docs/.keep
+sure that the `_config.yml` file in your Jekyll issue is resolved.
+
+By ensuring the `docs` directory is present or updating git commit -m "Create docs directory to fix build issue"
+your configuration to point to the correct directories, the SCSS conversion should succeed site has the correct paths set up for your assets and other   git push origin <branch-name>
